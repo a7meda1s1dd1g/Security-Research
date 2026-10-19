@@ -66,6 +66,8 @@ A video PoC demonstrating the following is included in [`poc/`](./poc):
 3. Modifying the URL before entering the verification code
 4. Accessing the dashboard directly without completing 2FA
 
+https://github.com/user-attachments/assets/cfd08849-6b24-47dd-99dd-9dcfbdc62987
+
 ## Suggested Remediation
 - Maintain server-side authentication state indicating whether 2FA has been successfully completed
 - Verify 2FA completion on every request to authenticated resources
