@@ -77,6 +77,8 @@ The vulnerability allows manipulation of a security control protecting account f
 ## Proof of Concept
 A video PoC demonstrating the complete attack flow is included in [`poc/`](./poc).
 
+https://github.com/user-attachments/assets/0325cfd9-64fa-4801-b001-5ce93637f0a3
+
 ## Suggested Remediation
 - Cryptographically bind stored PIN values to the account identifier
 - Verify server-side that a submitted encrypted PIN belongs to the authenticated account
