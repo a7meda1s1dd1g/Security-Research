@@ -45,6 +45,8 @@ https://studio.salonory.com/search-result/?search-article=%22%2526quot%253B%3E%3
 
 A PoC recording and screenshot are included in [`poc/`](./poc).
 
+https://github.com/user-attachments/assets/6358ac71-26cc-4b2c-bced-5ecc13cda5f8
+
 ![Reflected DOM-Based XSS PoC](./poc/XSS.png)
 
 ## Impact
